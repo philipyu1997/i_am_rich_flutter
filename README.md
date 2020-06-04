@@ -20,7 +20,7 @@ I Am Rich is an app described as "a work of art with no hidden function at all",
 
 Here's a preview of how the app looks:
 
-<img src="ADD_GIF_LINK" width=400><br>
+<img src="https://user-images.githubusercontent.com/35745973/83728277-1ec7b400-a5fb-11ea-8a51-12636e80f1bb.png" width=400>
 
 ## Credits
 
