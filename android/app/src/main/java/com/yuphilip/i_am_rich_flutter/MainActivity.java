@@ -1,4 +1,4 @@
-package com.yuphilip.i_am_rich;
+package com.yuphilip.i_am_rich_flutter;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

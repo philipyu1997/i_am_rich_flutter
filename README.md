@@ -1,16 +1,27 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter application.
+## Table of Contents
+1. [Overview](#Overview)
+2. [Product Specs](#Product-Specs)
+3. [App Preview](#App-Preview)
+4. [Credits](#Credits)
 
-## Getting Started
+## Overview
+### Description
 
-This project is a starting point for a Flutter application.
+I Am Rich is an app described as "a work of art with no hidden function at all", with its only purpose being to show other people that they were able to afford it.
 
-A few resources to get you started if this is your first Flutter project:
+## Product Specs
+### User Stories
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [x] User shall be able to see an image of a diamond on the center of the app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Preview
+
+Here's a preview of how the app looks:
+
+<img src="ADD_GIF_LINK" width=400><br>
+
+## Credits
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/).
