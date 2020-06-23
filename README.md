@@ -4,7 +4,8 @@
 1. [Overview](#Overview)
 2. [Product Specs](#Product-Specs)
 3. [App Preview](#App-Preview)
-4. [Credits](#Credits)
+4. [Libraries](#Libraries)
+5. [Credits](#Credits)
 
 ## Overview
 ### Description
@@ -23,6 +24,10 @@ Here's a preview of how the app looks:
 <img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-i-am-rich.png" width=250>
 
 <img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-i-am-rich.png" width=250>
+
+## Libraries
+
+- [pedantic](https://github.com/dart-lang/pedantic) - Most of the recommended lints directly implement the guidelines set out in [Effective Dart](https://dart.dev/guides/language/effective-dart).
 
 ## Credits
 
