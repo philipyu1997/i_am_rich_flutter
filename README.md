@@ -9,7 +9,7 @@
 ## Overview
 ### Description
 
-I Am Rich is an app described as "a work of art with no hidden function at all", with its only purpose being to show other people that they were able to afford it.
+I Am Rich is a Flutter application originally developed by [Armin Heinrich](https://en.wikipedia.org/wiki/I_Am_Rich), with its only purpose being to show other people that they were able to afford it.
 
 ## Product Specs
 ### User Stories
@@ -20,9 +20,9 @@ I Am Rich is an app described as "a work of art with no hidden function at all",
 
 Here's a preview of how the app looks:
 
-<img src="https://user-images.githubusercontent.com/35745973/83799573-de981e00-a65a-11ea-9b91-b558ece169ab.png" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-i-am-rich.png" width=250>
 
-<img src="https://user-images.githubusercontent.com/35745973/83799579-dfc94b00-a65a-11ea-9fba-fd56e18e8bb0.png" width=250>
+<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-i-am-rich.png" width=250>
 
 ## Credits
 
