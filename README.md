@@ -21,9 +21,9 @@ I Am Rich is a Flutter application originally developed by [Armin Heinrich](http
 
 Here's a preview of how the app looks:
 
-<img src="https://github.com/py415/app-resources/blob/master/flutter/ios/flutter-ios-i-am-rich.png" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/flutter/ios/flutter-ios-i-am-rich.png" width="250" />
 
-<img src="https://github.com/py415/app-resources/blob/master/flutter/android/flutter-android-i-am-rich.png" width=250>
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/flutter/android/flutter-android-i-am-rich.png" width="250" />
 
 ## Libraries
 
